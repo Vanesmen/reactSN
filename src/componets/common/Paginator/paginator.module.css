@@ -1,0 +1,10 @@
+.selectedPage {
+    color: blue;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.pagBar {
+    cursor: pointer;
+    padding: 5px;
+}
